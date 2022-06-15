@@ -8,8 +8,11 @@ class Host
 	double x;
 	double y;
 	double reach;
-	long long int mac;
-	bool send(Packet *p, Host *h);
+	int mac;
+
+	public:
+		void send(Packet *p, int destination_mac);
+		void listen();
 };
 
 #endif

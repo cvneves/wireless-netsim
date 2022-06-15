@@ -7,10 +7,10 @@
 class Packet 
 {
 	int type;
-	long long int mac_originator;
-	long long int mac_destination;
+	int mac_source;
+	int mac_destination;
 	std::string content;
-	vector<long long int> path;
+	std::vector<int> path;
 };
 
 #endif

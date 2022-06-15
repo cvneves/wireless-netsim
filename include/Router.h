@@ -1,7 +1,9 @@
 #ifndef ROUTER_H
 #define ROUTER_H
 
-class Router 
+#include "Host.h"
+
+class Router: public Host
 {
 
 };

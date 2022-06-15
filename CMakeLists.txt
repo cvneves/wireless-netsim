@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(SOURCE_FILES
  source/main.cpp
  source/Router.cpp
+ source/Simulation.cpp
  source/Host.cpp
  source/Packet.cpp
 )

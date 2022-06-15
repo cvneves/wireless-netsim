@@ -5,11 +5,6 @@
 #include "Router.h"
 #include <queue>
 
-class Event
-{
-
-};
-
 class Simulation 
 {
 	int time = 0;

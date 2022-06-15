@@ -36,7 +36,8 @@ for i in range(0,N1):
 
     tupl.sort()
 
-    k_max = np.floor(random() * N / 100)
+    # k_max = np.floor(random() * N / 100)
+    k_max = 2
     for k, t in enumerate(tupl):
         if k > k_max:
             break
@@ -79,6 +80,6 @@ plt.axis('equal')
 plt.scatter(x_router, y_router, facecolor='black', edgecolor='black', linewidth=0.1, s=10, zorder=2)
 plt.scatter(x_host, y_host, facecolor='white', edgecolor='black', linewidth=0.1, s=10, zorder=3)
 circ = plt.Circle((0,0), 2, color='r', fill=False)
-fig, ax = plt.subplots()
-ax.add_patch(circ)
+# fig, ax = plt.subplots()
+# ax.add_patch(circ)
 plt.savefig("graph.pdf")

@@ -4,12 +4,11 @@
 #include "Host.h"
 #include <vector>
 
-class Router: public Host
+struct Router: public Host
 {
 	std::vector<std::vector<int>> route_table;
 
-	public:
-		Router(double x, double y, double reach, int mac) : Host(x, y, reach, mac) {}
+	Router(double x, double y, double reach, int mac) : Host(x, y, reach, mac) {}
 };
 
 #endif

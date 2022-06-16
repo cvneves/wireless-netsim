@@ -3,26 +3,44 @@
 
 #include "Host.h"
 #include "Router.h"
+#include "Packet.h"
 #include <queue>
 #include <map>
 #include <iostream>
 #include <fstream>
 #include <sstream>
+#include <cmath>
 
-class Simulation 
+#define TRAVEL_SPEED 5.0
+
+struct Simulation 
 {
-	int time = 0;
-	std::vector<Host*> entities;
-	std::priority_queue<std::pair<int, Packet*>> packets;
+	int curr_time = 0;
+	std::vector<Host*> nodes;
+	std::priority_queue<std::pair<int, Packet*>> events;
 	std::vector<std::vector<double>> distance;
 
-	public:
-		void read_data(std::string file_name);
+	void cast(int mac, Packet *p);
 
-		void update();
-		void log_curr_state();
+	void read_data(std::string file_name);
 
-		bool reachable(Host *host_a, Host *host_b);
+	void update();
+
+	void log_curr_state();
+
+	double get_distance(Host *host_a, Host *host_b);
+
+	bool is_reachable(Host *host_from, Host *host_to);
+
+	int get_travel_time(Host *host_a, Host *host_b);
+
+	void send(int mac_source, int mac_destination, std::string content);
+
+	void cast(Host *host, Packet *packet);
+
+	void wait(int wait_time);
+
+	~Simulation();
 };
 
 #endif

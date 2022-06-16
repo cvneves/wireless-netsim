@@ -11,8 +11,8 @@ class Host
 	int mac;
 
 	public:
-		void send(Packet *p, int destination_mac);
-		void listen();
+		Host(double x, double y, double reach, int mac) : x(x), y(y), reach(reach), mac(mac) {}
+		void cast(Host *h, Packet *p);
 };
 
 #endif

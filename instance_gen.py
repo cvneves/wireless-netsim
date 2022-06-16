@@ -3,29 +3,52 @@ from random import seed
 import numpy as np
 import matplotlib.pyplot as plt
 
-N = 500 
+N = 250
 N_HOST = 100
 MIN_ACCEPTED_DIST = 2 
 x_temp = 100 * np.random.rand(N)
 y_temp = 100 * np.random.rand(N)
 x = []
 y = []
+point_color = []
 
 for i in range(0, N):
     mindist = np.partition(np.sqrt((x_temp[i] - x_temp)**2 + (y_temp[i] - y_temp)**2), 2)[1]
     if mindist > MIN_ACCEPTED_DIST:
         x.append(x_temp[i])
         y.append(y_temp[i])
+        # point_color.append('white')
+        point_color.append('black' if np.random.rand() > 0.25 else 'white')
 
 N = len(x)
 
+dist = np.zeros(shape=(N,N))
 for i in range(0, N):
-    for j in range(i + 1, N):
-        if np.random.rand() > 0.995:
-            plt.plot([x[i], x[j]], [y[i], y[j]], color='blue', linewidth=0.5, zorder=1)
+    tupl = []
+    for j in range(i+1, N):
+        dist[i][j] = dist[j][i] = np.sqrt((x[i] - x[j])**2 + (y[i] - y[j])**2)
 
-plt.scatter(x, y, facecolor='black', edgecolor='black', linewidth=0.1, s=10, zorder=2)
+    for j in range(0, N):
+        if j == i:
+            continue
+        tupl.append((dist[i][j], j))
+    tupl.sort()
+
+    for k, t in enumerate(tupl):
+        d, j = t
+        if d > 15:
+            break
+        plt.plot([x[i], x[j]], [y[i], y[j]], color='black', linewidth=0.05, zorder=1)
+
+plt.scatter(x, y, facecolor=point_color, edgecolor='black', linewidth=0.1, s=10, zorder=2)
 plt.savefig("graph.pdf")
+
+f = open('instances/a.txt', 'w')
+
+for i in range(0, N):
+    f.write(str(x[i]) + ' ' +  str(y[i]) + ' ' + str(15) + '\n')
+
+f.close()
 
 # for i in range(0, N):
 #     mindist = np.partition(np.sqrt((x_router_temp[i] - x_router_temp)**2 + (y_router_temp[i] - y_router_temp)**2), 2)[1]

@@ -18,14 +18,16 @@ void Simulation::update()
 {
 	log_curr_state();
 
-	while (!events.empty() && -events.front().first == curr_time)
+	std::cout << curr_time << std::endl;
+	while (!events.empty() 
+			&& -events.front().first == curr_time)
 	{
 		std::pop_heap(events.begin(), events.end());
-		Packet *packet = events.back().second;
+		std::pair<int, Packet*> temp = events.back();
+		events.pop_back();
+		Packet *packet = temp.second;
 
 		cast(packet->next_host, packet);
-
-		events.pop_back();
 	}
 
 	curr_time++;
@@ -37,7 +39,11 @@ void Simulation::log_curr_state()
 	{
 		if (-event.first == curr_time)
 		{
-			edge_list.push_back(
+			std::pair<int, int> temp = {event.second->prev_host->mac, event.second->next_host->mac};
+			if (temp.first > temp.second)
+				std::swap(temp.first, temp.second);
+
+			edge_list.insert(
 					{event.second->prev_host->mac, event.second->next_host->mac}
 					);
 		}
@@ -118,12 +124,14 @@ void Simulation::cast(Host *host, Packet *packet)
 {
 	for (const auto &node : nodes)
 	{
-		if (is_reachable(host, node) 
-				&& node != host
-				&& node != packet->prev_host)
+		if (node != host
+				&& is_reachable(host, node) 
+				&& node != packet->prev_host
+				&& packet->hop_count <= 20)
 		{
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
+			packet_copy->hop_count = packet->hop_count + 1;
 			packet_copy->prev_host = host;
 			packet_copy->next_host = node;
 

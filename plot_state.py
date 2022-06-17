@@ -32,7 +32,6 @@ for line in edges_file:
 #         dist = np.sqrt((x[i] - x[j])**2 + (y[i] - y[j])**2)
 #         if dist <= 15:
 #             plt.plot([x[i], x[j]], [y[i], y[j]], color='black', linewidth=0.05, zorder=1)
-
     
 edges_file.close()
 

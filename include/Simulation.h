@@ -12,6 +12,7 @@
 #include <cmath>
 #include <algorithm>
 #include <map>
+#include <set>
 
 #define TRAVEL_SPEED 5000.0
 
@@ -22,7 +23,7 @@ struct Simulation
 	std::vector<std::pair<int, Packet*>> events;
 	std::vector<std::vector<double>> distance;
 	std::string instance_file_name;
-	std::vector<std::pair<int, int>> edge_list;
+	std::set<std::pair<int, int>> edge_list;
 
 	void cast(int mac, Packet *p);
 

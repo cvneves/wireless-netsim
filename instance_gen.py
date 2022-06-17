@@ -3,8 +3,8 @@ from random import seed
 import numpy as np
 import matplotlib.pyplot as plt
 
-N = 250
-N_HOST = 100
+N = 50
+N_HOST = 50
 MIN_ACCEPTED_DIST = 2 
 x_temp = 100 * np.random.rand(N)
 y_temp = 100 * np.random.rand(N)
@@ -36,7 +36,7 @@ for i in range(0, N):
 
     for k, t in enumerate(tupl):
         d, j = t
-        if d > 15:
+        if d > 30:
             break
         plt.plot([x[i], x[j]], [y[i], y[j]], color='black', linewidth=0.05, zorder=1)
 

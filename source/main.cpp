@@ -13,8 +13,8 @@ int main()
 
 	sim->send(0, 1, "Hello.");
 	sim->wait(100);
-	sim->send(1, 2, "Hello there.");
-	sim->wait(100);
+	//alskjdasim->send(1, 2, "Hello there.");
+	//alskjdasim->wait(100);
 
 	delete sim;
 }

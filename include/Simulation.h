@@ -10,15 +10,17 @@
 #include <fstream>
 #include <sstream>
 #include <cmath>
+#include <algorithm>
 
-#define TRAVEL_SPEED 5.0
+#define TRAVEL_SPEED 20.0
 
 struct Simulation 
 {
 	int curr_time = 0;
 	std::vector<Host*> nodes;
-	std::priority_queue<std::pair<int, Packet*>> events;
+	std::vector<std::pair<int, Packet*>> events;
 	std::vector<std::vector<double>> distance;
+	std::string instance_file_name;
 
 	void cast(int mac, Packet *p);
 

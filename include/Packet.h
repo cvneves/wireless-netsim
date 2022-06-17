@@ -13,6 +13,7 @@ struct Packet
 	int mac_destination;
 	int hop_count = 0;
 	Host *next_host = NULL;
+	Host *prev_host = NULL;
 	std::string content;
 	std::vector<int> path;
 

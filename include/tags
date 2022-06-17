@@ -1,0 +1,35 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+HOST_H	Host.h	/^#define HOST_H$/;"	d
+Host	Host.h	/^struct Host $/;"	s
+PACKET_H	Packet.h	/^#define PACKET_H$/;"	d
+Packet	Packet.h	/^struct Packet $/;"	s
+ROUTER_H	Router.h	/^#define ROUTER_H$/;"	d
+Router	Router.h	/^	Router(double x, double y, double reach, int mac) : Host(x, y, reach, mac) {}$/;"	f	struct:Router
+Router	Router.h	/^struct Router: public Host$/;"	s
+SIMULATION_H	Simulation.h	/^#define SIMULATION_H$/;"	d
+Simulation	Simulation.h	/^struct Simulation $/;"	s
+TRAVEL_SPEED	Simulation.h	/^#define TRAVEL_SPEED /;"	d
+content	Packet.h	/^	std::string content;$/;"	m	struct:Packet	typeref:typename:std::string
+curr_time	Simulation.h	/^	int curr_time = 0;$/;"	m	struct:Simulation	typeref:typename:int
+distance	Simulation.h	/^	std::vector<std::vector<double>> distance;$/;"	m	struct:Simulation	typeref:typename:std::vector<std::vector<double>>
+events	Simulation.h	/^	std::priority_queue<std::pair<int, Packet*>> events;$/;"	m	struct:Simulation	typeref:typename:std::priority_queue<std::pair<int,Packet * >>
+hop_count	Packet.h	/^	int hop_count = 0;$/;"	m	struct:Packet	typeref:typename:int
+mac	Host.h	/^	int mac;$/;"	m	struct:Host	typeref:typename:int
+mac_destination	Packet.h	/^	int mac_destination;$/;"	m	struct:Packet	typeref:typename:int
+mac_source	Packet.h	/^	int mac_source;$/;"	m	struct:Packet	typeref:typename:int
+next_host	Packet.h	/^	Host *next_host = NULL;$/;"	m	struct:Packet	typeref:typename:Host *
+nodes	Simulation.h	/^	std::vector<Host*> nodes;$/;"	m	struct:Simulation	typeref:typename:std::vector<Host * >
+path	Packet.h	/^	std::vector<int> path;$/;"	m	struct:Packet	typeref:typename:std::vector<int>
+reach	Host.h	/^	double reach;$/;"	m	struct:Host	typeref:typename:double
+route_table	Router.h	/^	std::vector<std::vector<int>> route_table;$/;"	m	struct:Router	typeref:typename:std::vector<std::vector<int>>
+type	Packet.h	/^	int type; \/\/ 0 = send,$/;"	m	struct:Packet	typeref:typename:int
+x	Host.h	/^	double x;$/;"	m	struct:Host	typeref:typename:double
+y	Host.h	/^	double y;$/;"	m	struct:Host	typeref:typename:double

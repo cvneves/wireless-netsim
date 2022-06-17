@@ -16,7 +16,9 @@ Simulation::~Simulation()
 
 void Simulation::update()
 {
-	while (!events.empty() && events.front().first == curr_time)
+	log_curr_state();
+
+	while (!events.empty() && -events.front().first == curr_time)
 	{
 		std::pop_heap(events.begin(), events.end());
 		Packet *packet = events.back().second;
@@ -26,8 +28,6 @@ void Simulation::update()
 		events.pop_back();
 	}
 
-	log_curr_state();
-
 	curr_time++;
 }
 
@@ -35,7 +35,7 @@ void Simulation::log_curr_state()
 {
 	for (const auto &event : events)
 	{
-		if (event.first == curr_time)
+		if (-event.first == curr_time)
 		{
 			edge_list.push_back(
 					{event.second->prev_host->mac, event.second->next_host->mac}
@@ -130,7 +130,7 @@ void Simulation::cast(Host *host, Packet *packet)
 			int arrival_time = curr_time 
 				+	get_travel_time(host, node);
 
-			events.push_back({arrival_time, packet_copy});
+			events.push_back({-arrival_time, packet_copy});
 			push_heap(events.begin(), events.end());
 		}
 	}

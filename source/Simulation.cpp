@@ -33,16 +33,23 @@ void Simulation::update()
 
 void Simulation::log_curr_state()
 {
-	std::ofstream temp_file;
-	temp_file.open("../output/temp" + std::to_string(10000000 + curr_time) + ".txt");
-
 	for (const auto &event : events)
 	{
 		if (event.first == curr_time)
 		{
-			temp_file << event.second->prev_host->mac << 
-				" " << event.second->next_host->mac << std::endl;
+			edge_list.push_back(
+					{event.second->prev_host->mac, event.second->next_host->mac}
+					);
 		}
+	}
+
+	std::ofstream temp_file;
+	temp_file.open("../output/temp" + std::to_string(10000000 + curr_time) + ".txt");
+
+	for (const auto &edge : edge_list)
+	{
+		temp_file << edge.first << 
+			" " << edge.second << std::endl;
 	}
 
 	temp_file.close();
@@ -117,8 +124,8 @@ void Simulation::cast(Host *host, Packet *packet)
 		{
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
-			packet_copy->next_host = node;
 			packet_copy->prev_host = host;
+			packet_copy->next_host = node;
 
 			int arrival_time = curr_time 
 				+	get_travel_time(host, node);

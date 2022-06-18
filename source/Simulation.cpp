@@ -140,7 +140,7 @@ void Simulation::cast(Host *host, Packet *packet)
 		if (node != host
 				&& is_reachable(host, node) 
 				&& node != packet->prev_host
-				&& packet->hop_count <= 20)
+				&& packet->hop_count <= 10)
 		{
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;

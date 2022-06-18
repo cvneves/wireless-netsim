@@ -25,7 +25,7 @@ for line in edges_file:
     l = line.split(' ')
     i = int(l[0])
     j = int(l[1])
-    plt.plot([x[i], x[j]], [y[i], y[j]], color='blue', linewidth=0.05, zorder=1)
+    plt.plot([x[i], x[j]], [y[i], y[j]], color='blue', linewidth=0.20, zorder=1)
 
 # for i in range(0, len(x)):
 #     for j in range(0, len(x)):
@@ -35,4 +35,4 @@ for line in edges_file:
     
 edges_file.close()
 
-plt.savefig(sys.argv[3])
+plt.savefig(sys.argv[3], dpi=300)

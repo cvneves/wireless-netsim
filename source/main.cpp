@@ -11,10 +11,10 @@ int main()
 	Simulation *sim = new Simulation();
 	sim->read_data("../instances/a.txt");
 
-	for (int i = 0; i < sim->nodes.size(); i++)
-	{
-		sim->nodes[i]->reach = 20;
-	}
+	// for (int i = 0; i < sim->nodes.size(); i++)
+	// {
+	// 	sim->nodes[i]->reach = 20;
+	// }
 
 	sim->send(0, 8, "Hello.");
 	sim->wait(100);

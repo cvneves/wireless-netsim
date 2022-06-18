@@ -19,6 +19,8 @@ void Simulation::update()
 	log_curr_state();
 
 	std::cout << curr_time << std::endl;
+	std::vector<std::pair<int, Packet*>> to_cast;
+	std::vector<int> receive_count(nodes.size(), 0);
 	while (!events.empty() 
 			&& -events.front().first == curr_time)
 	{
@@ -27,7 +29,18 @@ void Simulation::update()
 		events.pop_back();
 		Packet *packet = temp.second;
 
-		cast(packet->next_host, packet);
+		// cast(packet->next_host, packet);
+
+		to_cast.push_back(temp);
+		receive_count[packet->next_host->mac]++;
+	}
+
+	for (const auto &event : to_cast)
+	{
+		if (receive_count[event.second->next_host->mac] > 1)
+			continue; // houve colisão
+
+		cast(event.second->next_host, event.second);
 	}
 
 	curr_time++;

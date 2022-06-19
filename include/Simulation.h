@@ -15,7 +15,7 @@
 #include <set>
 
 #define TRAVEL_SPEED 25.0
-#define MAX_HOPS 20
+#define MAX_HOPS 40
 
 struct Simulation 
 {

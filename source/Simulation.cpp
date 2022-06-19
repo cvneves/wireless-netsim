@@ -23,7 +23,8 @@ void Simulation::update()
 	for (auto arc : arcs)
 	{
 		Packet *packet = arc.second;
-		update_packet_position(packet);
+		if (arc.second)
+			update_packet_position(packet);
 	}
 
 	for (const auto &node : nodes)
@@ -150,6 +151,7 @@ void Simulation::cast(int mac)
 		return;
 
 	Packet *packet = host->buffer.front();
+	bool flag = false;
 
 	for (const auto &neighbor : neighbors[mac])
 	{
@@ -158,9 +160,10 @@ void Simulation::cast(int mac)
 				&& node->mac != packet->mac_prev
 				&& packet->hop_count <= MAX_HOPS)
 		{
+			flag = true;
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
-			packet_copy->hop_count = packet->hop_count + 1;
+			packet_copy->hop_count = packet_copy->hop_count + 1;
 			packet_copy->mac_prev = host->mac;
 			packet_copy->mac_next = node->mac;
 			packet_copy->position = 0;
@@ -169,8 +172,13 @@ void Simulation::cast(int mac)
 
 			arcs[{host->mac, node->mac}] = packet_copy;
 		}
+		if (flag && node !=host)
+		{
+			node->busy_tone = true;
+		}
 	}
 
+	std::cout << packet->hop_count << " " << packet << std::endl;
 	delete packet;
 	host->buffer.pop();
 }
@@ -195,5 +203,6 @@ void Simulation::update_packet_position(Packet *packet)
 	{
 		nodes[packet->mac_next]->buffer.push(packet);
 		nodes[packet->mac_next]->busy_tone = false;
+		arcs[{packet->mac_prev, packet->mac_next}] = NULL;
 	}
 }

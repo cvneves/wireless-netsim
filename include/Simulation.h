@@ -25,27 +25,28 @@ struct Simulation
 	std::vector<std::vector<double>> distance;
 	std::string instance_file_name;
 	std::set<std::pair<int, int>> edge_list;
-	std::map<std::pair<int, int>, std::vector<Packet*>> domains;
+	std::map<std::pair<int, int>, Packet*> arcs;
 
-	void cast(int mac, Packet *p);
-
+	std::vector<std::vector<int>> neighbors;
 	void read_data(std::string file_name);
 
 	void update();
 
 	void log_curr_state();
 
-	double get_distance(Host *host_a, Host *host_b);
+	double get_distance(int from, int to);
 
-	bool is_reachable(Host *host_from, Host *host_to);
+	bool is_reachable(int from, int to);
 
-	int get_travel_time(Host *host_a, Host *host_b);
+	int get_travel_time(int from, int to);
 
 	void send(int mac_source, int mac_destination, std::string content);
 
-	void cast(Host *host, Packet *packet);
+	void cast(int mac);
 
 	void wait(int wait_time);
+
+	void update_packet_position(Packet *packet);
 
 	~Simulation();
 };

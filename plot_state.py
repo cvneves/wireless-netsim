@@ -24,11 +24,13 @@ for line in edges_file:
     ls = line.split(' ')
     i = int(ls[0])
     j = int(ls[1])
+    c = 1 - float(ls[2]) 
     a = 1 - max(float(ls[2]) - eps, 0)
     b = 1 - min(float(ls[2]) + eps, 1)
     
     if float(ls[2]) != -1:
-        plt.plot([a * x[i] + (1 - a) * x[j], b * x[i] + (1 - b) * x[j]], [a * y[i] + (1 - a) * y[j], b * y[i] + (1 - b) * y[j]], color='blue', linewidth=0.75, zorder=1)
+        # plt.plot([a * x[i] + (1 - a) * x[j], b * x[i] + (1 - b) * x[j]], [a * y[i] + (1 - a) * y[j], b * y[i] + (1 - b) * y[j]], color='blue', linewidth=0.75, zorder=1)
+        plt.scatter(c * x[i] + (1 - c) * x[j], c * y[i] + (1 - c) * y[j], facecolor='black', edgecolor='black', linewidth=0.2, s=0.5, zorder=4)
     plt.plot([x[i], x[j]], [y[i], y[j]], alpha=0.25, color='blue', linewidth=0.20, zorder=1)
 
 # for i in range(0, len(x)):

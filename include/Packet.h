@@ -1,7 +1,6 @@
 #ifndef PACKET_H
 #define PACKET_H
 
-#include "Host.h"
 #include <string>
 #include <vector>
 
@@ -12,8 +11,8 @@ struct Packet
 	int mac_source;
 	int mac_destination;
 	int hop_count = 0;
-	Host *next_host = NULL;
-	Host *prev_host = NULL;
+	int mac_prev = -1;
+	int mac_next = -1;
 	std::string content;
 	std::vector<int> path;
 	double position = 0;

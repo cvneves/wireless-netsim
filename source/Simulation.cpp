@@ -18,36 +18,31 @@ void Simulation::update()
 {
 	log_curr_state();
 
-	for (auto &domain : domains)
+	std::vector<bool> ready(nodes.size(), false);
+
+	for (auto arc : arcs)
 	{
-		if (domain.second.size() > 1)
-		{
-			domain.second.clear();
-			continue;
-		}
+		Packet *packet = arc.second;
+		update_packet_position(packet);
+	}
 
-		for (auto &packet : domain.second)
+	for (const auto &node : nodes)
+	{
+		bool busy = false;
+		for (const auto &neighbor : neighbors[node->mac])
 		{
-			packet->position += TRAVEL_SPEED / get_distance(
-					packet->prev_host,
-					packet->next_host
-					) / packet->content.size();
-			packet->position = std::min(packet->position, 1.0); 
-
-			if (packet->position == 1.0)
+			Host *node = nodes[neighbor];
+			if (node->busy_tone)
 			{
-				cast(packet->next_host, packet);
-				delete packet;
-				packet = NULL;
+				busy = true;
+				break;
 			}
 		}
-
-		auto remove_it = std::remove_if(
-				domain.second.begin(), 
-				domain.second.end(), 
-				[&](const Packet* packet){return packet == NULL;}
-				);
-		domain.second.erase(remove_it, domain.second.end());
+		
+		if (!busy)
+		{
+			cast(node->mac);
+		}
 	}
 
 	curr_time++;
@@ -58,20 +53,17 @@ void Simulation::log_curr_state()
 	std::ofstream temp_file;
 	temp_file.open("../output/temp" + std::to_string(10000000 + curr_time) + ".txt");
 
-	for (const auto &domain : domains)
+	for (const auto &arc : arcs)
 	{
-		if (domain.second.empty())
+		if (arc.second == NULL)
 		{
-			temp_file << domain.first.first << 
-			" " << domain.first.second << 
+			temp_file << arc.first.first << 
+			" " << arc.first.second << 
 			" " << -1 << std::endl;
-		}
-
-		for (const auto &packet : domain.second)
-		{
-			temp_file << domain.first.first << 
-			" " << domain.first.second << 
-			" " << packet->position << std::endl;
+		} else {
+			temp_file << arc.first.first << 
+			" " << arc.first.second << 
+			" " << arc.second->position << std::endl;
 		}
 	}
 
@@ -104,24 +96,37 @@ void Simulation::read_data(std::string file_name)
 		}
 		file.close();
 	}
+
+	neighbors = std::vector<std::vector<int>> (nodes.size());
+	for (const auto &host_a : nodes)
+	{
+		for (const auto &host_b : nodes)
+		{
+			if (host_a != host_b
+					&& is_reachable(host_a->mac, host_b->mac))
+			{
+				neighbors[host_a->mac].push_back(host_b->mac);
+			}
+		}
+	}
 }
 
-double Simulation::get_distance(Host *host_from, Host *host_to)
+double Simulation::get_distance(int from, int to)
 {
 	return sqrt(
-			pow(host_from->x - host_to->x, 2) 
-			+ pow(host_from->y - host_to->y, 2)
+			pow(nodes[from]->x - nodes[to]->x, 2) 
+			+ pow(nodes[from]->y - nodes[to]->y, 2)
 			);
 }
 
-bool Simulation::is_reachable(Host *host_from, Host *host_to)
+bool Simulation::is_reachable(int from, int to)
 {
-	return get_distance(host_from, host_to) <= host_to->reach;
+	return get_distance(from, to) <= nodes[from]->reach;
 }
 
-int Simulation::get_travel_time(Host *host_a, Host *host_b)
+int Simulation::get_travel_time(int from, int to)
 {
-	return std::ceil(get_distance(host_a, host_b) / TRAVEL_SPEED);
+	return std::ceil(get_distance(from, to) / TRAVEL_SPEED);
 }
 
 void Simulation::send(
@@ -133,36 +138,41 @@ void Simulation::send(
 	Packet *packet = new Packet(content);
 	packet->mac_source = mac_source;
 	packet->mac_destination = mac_destination;
+	nodes[mac_source]->buffer.push(packet);
 
-	cast(nodes[mac_source], packet);
+	cast(mac_source);
 }
 
-void Simulation::cast(Host *host, Packet *packet)
+void Simulation::cast(int mac)
 {
-	for (const auto &node : nodes)
+	Host *host = nodes[mac];
+	if (host->buffer.empty())
+		return;
+
+	Packet *packet = host->buffer.front();
+
+	for (const auto &neighbor : neighbors[mac])
 	{
+		Host *node = nodes[neighbor];
 		if (node != host
-				&& is_reachable(host, node) 
-				&& node != packet->prev_host
+				&& node->mac != packet->mac_prev
 				&& packet->hop_count <= MAX_HOPS)
 		{
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
 			packet_copy->hop_count = packet->hop_count + 1;
-			packet_copy->prev_host = host;
-			packet_copy->next_host = node;
+			packet_copy->mac_prev = host->mac;
+			packet_copy->mac_next = node->mac;
 			packet_copy->position = 0;
 
-			std::pair temp = {host->mac, node->mac};
-			domains[temp].push_back(packet_copy);
+			node->busy_tone = true;
 
-			// int arrival_time = curr_time 
-			// 	+	get_travel_time(host, node);
-
-			// events.push_back({-arrival_time, packet_copy});
-			// push_heap(events.begin(), events.end());
+			arcs[{host->mac, node->mac}] = packet_copy;
 		}
 	}
+
+	delete packet;
+	host->buffer.pop();
 }
 
 void Simulation::wait(int wait_time)
@@ -170,5 +180,20 @@ void Simulation::wait(int wait_time)
 	for (int i = 0; i < wait_time; i++)
 	{
 		update();
+	}
+}
+
+void Simulation::update_packet_position(Packet *packet)
+{
+	packet->position += TRAVEL_SPEED / get_distance(
+			packet->mac_prev,
+			packet->mac_next
+			) / packet->content.size();
+	packet->position = std::min(packet->position, 1.0); 
+
+	if (packet->position == 1.0)
+	{
+		nodes[packet->mac_next]->buffer.push(packet);
+		nodes[packet->mac_next]->busy_tone = false;
 	}
 }

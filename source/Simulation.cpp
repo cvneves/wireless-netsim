@@ -18,29 +18,36 @@ void Simulation::update()
 {
 	log_curr_state();
 
-	std::cout << curr_time << std::endl;
-	std::vector<std::pair<int, Packet*>> to_cast;
-	std::vector<int> receive_count(nodes.size(), 0);
-	while (!events.empty() 
-			&& -events.front().first == curr_time)
+	for (auto &domain : domains)
 	{
-		std::pop_heap(events.begin(), events.end());
-		std::pair<int, Packet*> temp = events.back();
-		events.pop_back();
-		Packet *packet = temp.second;
+		if (domain.second.size() > 1)
+		{
+			domain.second.clear();
+			continue;
+		}
 
-		// cast(packet->next_host, packet);
+		for (auto &packet : domain.second)
+		{
+			packet->position += TRAVEL_SPEED / get_distance(
+					packet->prev_host,
+					packet->next_host
+					) / packet->content.size();
+			packet->position = std::min(packet->position, 1.0); 
 
-		to_cast.push_back(temp);
-		receive_count[packet->next_host->mac]++;
-	}
+			if (packet->position == 1.0)
+			{
+				cast(packet->next_host, packet);
+				delete packet;
+				packet = NULL;
+			}
+		}
 
-	for (const auto &event : to_cast)
-	{
-		if (receive_count[event.second->next_host->mac] > 1)
-			continue; // houve colisão
-
-		cast(event.second->next_host, event.second);
+		auto remove_it = std::remove_if(
+				domain.second.begin(), 
+				domain.second.end(), 
+				[&](const Packet* packet){return packet == NULL;}
+				);
+		domain.second.erase(remove_it, domain.second.end());
 	}
 
 	curr_time++;
@@ -48,27 +55,24 @@ void Simulation::update()
 
 void Simulation::log_curr_state()
 {
-	for (const auto &event : events)
-	{
-		if (-event.first == curr_time)
-		{
-			std::pair<int, int> temp = {event.second->prev_host->mac, event.second->next_host->mac};
-			if (temp.first > temp.second)
-				std::swap(temp.first, temp.second);
-
-			edge_list.insert(
-					{event.second->prev_host->mac, event.second->next_host->mac}
-					);
-		}
-	}
-
 	std::ofstream temp_file;
 	temp_file.open("../output/temp" + std::to_string(10000000 + curr_time) + ".txt");
 
-	for (const auto &edge : edge_list)
+	for (const auto &domain : domains)
 	{
-		temp_file << edge.first << 
-			" " << edge.second << std::endl;
+		if (domain.second.empty())
+		{
+			temp_file << domain.first.first << 
+			" " << domain.first.second << 
+			" " << -1 << std::endl;
+		}
+
+		for (const auto &packet : domain.second)
+		{
+			temp_file << domain.first.first << 
+			" " << domain.first.second << 
+			" " << packet->position << std::endl;
+		}
 	}
 
 	temp_file.close();
@@ -140,19 +144,23 @@ void Simulation::cast(Host *host, Packet *packet)
 		if (node != host
 				&& is_reachable(host, node) 
 				&& node != packet->prev_host
-				&& packet->hop_count <= 10)
+				&& packet->hop_count <= MAX_HOPS)
 		{
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
 			packet_copy->hop_count = packet->hop_count + 1;
 			packet_copy->prev_host = host;
 			packet_copy->next_host = node;
+			packet_copy->position = 0;
 
-			int arrival_time = curr_time 
-				+	get_travel_time(host, node);
+			std::pair temp = {host->mac, node->mac};
+			domains[temp].push_back(packet_copy);
 
-			events.push_back({-arrival_time, packet_copy});
-			push_heap(events.begin(), events.end());
+			// int arrival_time = curr_time 
+			// 	+	get_travel_time(host, node);
+
+			// events.push_back({-arrival_time, packet_copy});
+			// push_heap(events.begin(), events.end());
 		}
 	}
 }

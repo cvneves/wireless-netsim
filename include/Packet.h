@@ -16,6 +16,7 @@ struct Packet
 	Host *prev_host = NULL;
 	std::string content;
 	std::vector<int> path;
+	double position = 0;
 
 	Packet(std::string content);
 };

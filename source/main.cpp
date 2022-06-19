@@ -6,17 +6,17 @@
 
 using namespace std;
 
-int main()
+int main(int argc, char **argv)
 {
 	Simulation *sim = new Simulation();
-	sim->read_data("../instances/a.txt");
+	sim->read_data(std::string(argv[1]));
 
 	// for (int i = 0; i < sim->nodes.size(); i++)
 	// {
 	// 	sim->nodes[i]->reach = 20;
 	// }
 
-	sim->send(0, 8, "Hello.");
+	sim->send(0, 1, "Hello there.");
 	sim->wait(100);
 	// std::cout << sim->is_reachable(sim->nodes[0], sim->nodes[134]) << std::endl;
 	//alskjdasim->send(1, 2, "Hello there.");

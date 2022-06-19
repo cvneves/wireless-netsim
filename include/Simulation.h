@@ -14,7 +14,8 @@
 #include <map>
 #include <set>
 
-#define TRAVEL_SPEED 5000.0
+#define TRAVEL_SPEED 25.0
+#define MAX_HOPS 20
 
 struct Simulation 
 {
@@ -24,6 +25,7 @@ struct Simulation
 	std::vector<std::vector<double>> distance;
 	std::string instance_file_name;
 	std::set<std::pair<int, int>> edge_list;
+	std::map<std::pair<int, int>, std::vector<Packet*>> domains;
 
 	void cast(int mac, Packet *p);
 

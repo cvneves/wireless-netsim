@@ -70,11 +70,12 @@ void Simulation::log_curr_state()
 		{
 			temp_file << arc.first.first << 
 			" " << arc.first.second << 
-			" " << -1 << std::endl;
+			" " << -1 << " " << 0 << std::endl;
 		} else {
 			temp_file << arc.first.first << 
 			" " << arc.first.second << 
-			" " << arc.second->position << std::endl;
+			" " << arc.second->position <<
+			" " << arc.second->type << std::endl;
 		}
 	}
 

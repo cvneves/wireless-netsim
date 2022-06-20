@@ -6,8 +6,8 @@
 
 struct Packet 
 {
-	int type; // 0 = send,
-						// 1 = confirmation
+	int type = 0; // 0 = request,
+			      // 1 = reply
 	int mac_source;
 	int mac_destination;
 	int hop_count = 0;
@@ -17,6 +17,7 @@ struct Packet
 	std::vector<int> path;
 	double position = 0;
 	int id;
+	int cursor;
 
 	Packet(std::string content);
 };

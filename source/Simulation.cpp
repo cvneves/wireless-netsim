@@ -42,8 +42,18 @@ void Simulation::update()
 		
 		if (!busy)
 		{
-			cast(node->mac);
+			if (!node->buffer.empty() && node->buffer.front()->type == 0)
+			{
+				cast(node->mac);		
+			}	
+			else if (!node->buffer.empty()
+				&& node->mac == node->buffer.front()->path[node->buffer.front()->cursor])
+			{
+				node->buffer.front()->cursor--;
+				cast(node->mac);
+			}
 		}
+
 	}
 
 	curr_time++;
@@ -164,11 +174,6 @@ void Simulation::cast(int mac)
 		host->packet_ids.insert(packet->id);
 	}
 
-	if (host->mac == packet->mac_destination)
-	{
-
-	}
-
 	bool flag = false;
 
 	for (const auto &neighbor : neighbors[mac])
@@ -181,7 +186,10 @@ void Simulation::cast(int mac)
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
 			packet_copy->hop_count = packet_copy->hop_count + 1;
-			packet_copy->path.push_back(host->mac);
+			
+			if(packet_copy->type == 0)
+				packet_copy->path.push_back(host->mac);
+			
 			packet_copy->mac_prev = host->mac;
 			packet_copy->mac_next = node->mac;
 			packet_copy->position = 0;
@@ -219,6 +227,12 @@ void Simulation::update_packet_position(Packet *packet)
 
 	if (packet->position == 1.0)
 	{
+		if (packet->mac_next == packet->mac_destination)
+		{
+			packet->type = 1; // reply
+			packet->hop_count = 0;
+		}
+
 		nodes[packet->mac_next]->buffer.push(packet);
 		nodes[packet->mac_next]->busy_tone = false;
 		arcs[{packet->mac_prev, packet->mac_next}] = NULL;

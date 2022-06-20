@@ -231,8 +231,14 @@ void Simulation::update_packet_position(Packet *packet)
 		if (packet->mac_next == packet->mac_destination)
 		{
 			packet->type = 1; // reply
+			packet->content = "ACK"; // aknowledgement
+			packet->id = -packet->id;
 			packet->hop_count = 0;
+			packet->path.push_back(packet->mac_next);
+			packet->cursor = packet->path.size() - 1;
 		}
+
+		// 0 -> 1 -> 2 -> 3 -> 4
 
 		nodes[packet->mac_next]->buffer.push(packet);
 		nodes[packet->mac_next]->busy_tone = false;

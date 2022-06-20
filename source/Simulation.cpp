@@ -139,6 +139,7 @@ void Simulation::send(
 	Packet *packet = new Packet(content);
 	packet->mac_source = mac_source;
 	packet->mac_destination = mac_destination;
+	packet->id = packet_id++;
 	nodes[mac_source]->buffer.push(packet);
 
 	cast(mac_source);
@@ -151,13 +152,24 @@ void Simulation::cast(int mac)
 		return;
 
 	Packet *packet = host->buffer.front();
+
+	if (host->packet_ids.find(packet->id) != host->packet_ids.end())
+	{
+		delete packet;
+		host->buffer.pop();
+
+		return;
+	}
+	else {
+		host->packet_ids.insert(packet->id);
+	}
+
 	bool flag = false;
 
 	for (const auto &neighbor : neighbors[mac])
 	{
 		Host *node = nodes[neighbor];
 		if (node != host
-				&& node->mac != packet->mac_prev
 				&& packet->hop_count <= MAX_HOPS)
 		{
 			flag = true;
@@ -172,7 +184,7 @@ void Simulation::cast(int mac)
 
 			arcs[{host->mac, node->mac}] = packet_copy;
 		}
-		if (flag && node !=host)
+		if (flag && node != host)
 		{
 			node->busy_tone = true;
 		}

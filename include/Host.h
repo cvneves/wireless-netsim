@@ -3,6 +3,7 @@
 
 #include "Packet.h"
 #include <map>
+#include <set>
 #include <queue>
 
 struct Host 
@@ -13,6 +14,8 @@ struct Host
 	int mac;
 	bool busy_tone = false;
 	std::queue<Packet*> buffer;
+	std::set<int> packet_ids;
+	std::map<int, int>;
 
 	Host(double x, double y, double reach, int mac);
 };

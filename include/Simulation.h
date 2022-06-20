@@ -19,6 +19,7 @@
 
 struct Simulation 
 {
+	int packet_id = 0;
 	int curr_time = 0;
 	std::vector<Host*> nodes;
 	std::vector<std::pair<int, Packet*>> events;

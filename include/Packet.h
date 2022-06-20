@@ -16,6 +16,7 @@ struct Packet
 	std::string content;
 	std::vector<int> path;
 	double position = 0;
+	int id;
 
 	Packet(std::string content);
 };

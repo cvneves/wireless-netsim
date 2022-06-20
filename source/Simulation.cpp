@@ -164,6 +164,11 @@ void Simulation::cast(int mac)
 		host->packet_ids.insert(packet->id);
 	}
 
+	if (host->mac == packet->mac_destination)
+	{
+
+	}
+
 	bool flag = false;
 
 	for (const auto &neighbor : neighbors[mac])
@@ -176,6 +181,7 @@ void Simulation::cast(int mac)
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
 			packet_copy->hop_count = packet_copy->hop_count + 1;
+			packet_copy->path.push_back(host->mac);
 			packet_copy->mac_prev = host->mac;
 			packet_copy->mac_next = node->mac;
 			packet_copy->position = 0;

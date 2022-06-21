@@ -9,6 +9,7 @@ set(SOURCE_FILES
  source/Simulation.cpp
  source/Host.cpp
  source/Packet.cpp
+ source/Layers.cpp
 )
 
 add_executable(

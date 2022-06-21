@@ -233,7 +233,7 @@ void Simulation::update_packet_position(Packet *packet)
 		{
 			packet->type = 1; // reply
 			packet->content = "ACK"; // aknowledgement
-			packet->id = -packet->id;
+			packet->id = std::min(-packet->id, packet->id);
 			packet->hop_count = 0;
 			packet->path.push_back(packet->mac_next);
 			packet->cursor = packet->path.size() - 1;

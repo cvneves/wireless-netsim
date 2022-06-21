@@ -187,19 +187,9 @@ void Simulation::cast(int mac)
 			flag = true;
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
-			// packet_copy->hop_count = packet_copy->hop_count + 1;
 			
-			// if(packet_copy->type == 0)
-			//  	packet_copy->path.push_back(host->mac);
 			packet_copy->encapsulate_network_layer(host->mac);
-
-			// packet_copy->mac_prev = host->mac;
-			// packet_copy->mac_next = node->mac;
-			
 			packet_copy->encapsulate_link_layer(host->mac, node->mac);
-			
-			// packet_copy->position = 0;
-			
 			packet_copy->encapsulate_physical_layer();
 
 			node->busy_tone = true;
@@ -243,12 +233,27 @@ void Simulation::update_packet_position(Packet *packet)
 			packet->hop_count = 0;
 			packet->path.push_back(packet->mac_next);
 			packet->cursor = packet->path.size() - 1;
+
 		}
 
-		// 0 -> 1 -> 2 -> 3 -> 4
+		// only fill routing table when replying and checks if the packet is repeated
+		if (packet->type == 1 
+		&& nodes[packet->mac_next]->packet_ids.find(packet->id) == nodes[packet->mac_next]->packet_ids.end()) 
+			fill_routing_table(packet);
 
 		nodes[packet->mac_next]->buffer.push(packet);
 		nodes[packet->mac_next]->busy_tone = false;
 		arcs[{packet->mac_prev, packet->mac_next}] = NULL;
+	}
+}
+
+void Simulation::fill_routing_table(Packet *packet)
+{
+	Host *host = nodes[packet->mac_next];
+	// std::cout << "Host " << host->mac << std::endl;
+	for(int i = packet->cursor + 1; i < packet->path.size(); i++)
+	{
+		// std::cout << packet->path[i] << " " << packet->path[packet->cursor + 1] << std::endl;
+		host->routing_table[packet->path[i]] = packet->path[packet->cursor + 1];
 	}
 }

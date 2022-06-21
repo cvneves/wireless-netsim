@@ -49,6 +49,8 @@ struct Simulation
 
 	void update_packet_position(Packet *packet);
 
+
+	void fill_routing_table(Packet *packet);
 	~Simulation();
 };
 

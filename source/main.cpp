@@ -18,6 +18,8 @@ int main(int argc, char **argv)
 
 	sim->send(0, 5, "Hello there.");
 	sim->wait(50);
+	sim->send(0, 5, "Hello there.");
+	sim->wait(50);
 	// for (auto &host : sim->nodes)
 	// {
 	// 	std::cout << "Host " << host->mac << std::endl; 

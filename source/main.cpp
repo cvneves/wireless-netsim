@@ -17,7 +17,7 @@ int main(int argc, char **argv)
 	// }
 
 	sim->send(0, 5, "Hello there.");
-	sim->wait(500);
+	sim->wait(50);
 	// std::cout << sim->is_reachable(sim->nodes[0], sim->nodes[134]) << std::endl;
 	//alskjdasim->send(1, 2, "Hello there.");
 	//alskjdasim->wait(100);

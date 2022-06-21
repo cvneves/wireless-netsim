@@ -47,8 +47,9 @@ void Simulation::update()
 				cast(node->mac);		
 			}	
 			else if (!node->buffer.empty()
-				&& node->mac == node->buffer.front()->path[node->buffer.front()->cursor])
-			{
+				&& node->mac == node->buffer.front()->path[node->buffer.front()->cursor]
+				&& node->buffer.front()->cursor != 0)  // Checks if
+   			{
 				node->buffer.front()->cursor--;
 				cast(node->mac);
 			}

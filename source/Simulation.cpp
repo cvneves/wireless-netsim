@@ -14,12 +14,54 @@ Simulation::~Simulation()
 	}
 }
 
+
+// void update_node()
+// {
+// 	if (packet->position == 1.0)
+// 	{
+// 		if (packet->mac_next == packet->mac_destination)
+// 		{
+// 			packet->type = 1; // reply
+// 			packet->content = "ACK"; // aknowledgement
+// 			packet->id = std::min(-packet->id, packet->id);
+// 			packet->hop_count = 0;
+// 			packet->path.push_back(packet->mac_next);
+// 			packet->cursor = packet->path.size() - 1;
+// 
+// 		}
+// 
+// 		// only fill routing table when replying and checks if the packet is repeated
+// 		if (packet->type == 1 
+// 				&& nodes[packet->mac_next]->packet_ids.find(packet->id) == nodes[packet->mac_next]->packet_ids.end()) 
+// 			fill_routing_table(packet);
+// 
+// 		nodes[packet->mac_next]->buffer.push(packet);
+// 		nodes[packet->mac_next]->busy_tone = false;
+// 		arcs[{packet->mac_prev, packet->mac_next}] = NULL;
+// 	}
+// }
+
+void Simulation::has_busy_neighbor(int mac)
+{
+	for (const auto &mac_neighbor : neighbors[mac])
+	{
+		Host *node = nodes[mac_neighbor];
+		if (node->busy_tone)
+			return true;
+	}
+
+	return false;
+}
+
 void Simulation::update()
 {
 	log_curr_state();
 
 	std::vector<bool> ready(nodes.size(), false);
 
+	// every packet traveling between two
+	// nodes must have its position after
+	// each update
 	for (auto arc : arcs)
 	{
 		Packet *packet = arc.second;
@@ -29,31 +71,38 @@ void Simulation::update()
 
 	for (const auto &node : nodes)
 	{
-		bool busy = false;
-		for (const auto &neighbor : neighbors[node->mac])
-		{
-			Host *node = nodes[neighbor];
-			if (node->busy_tone)
-			{
-				busy = true;
-				break;
-			}
-		}
-		
-		if (!busy)
-		{
-			if (!node->buffer.empty() && node->buffer.front()->type == 0)
-			{
-				cast(node->mac);		
-			}	
-			else if (!node->buffer.empty()
-				&& node->mac == node->buffer.front()->path[node->buffer.front()->cursor]
-				&& node->buffer.front()->cursor != 0)  // Checks if
-   			{
-				node->buffer.front()->cursor--;
-				cast(node->mac);
-			}
-		}
+		// if there is at least one
+		// busy neighbor, do nothing
+		if (has_busy_neighbor(node->mac))
+			continue;
+
+		update_node(node);
+
+		// bool busy = false;
+		// for (const auto &neighbor : neighbors[node->mac])
+		// {
+		// 	Host *node = nodes[neighbor];
+		// 	if (node->busy_tone)
+		// 	{
+		// 		busy = true;
+		// 		break;
+		// 	}
+		// }
+		// 
+		// if (!busy)
+		// {
+		// 	if (!node->buffer.empty() && node->buffer.front()->type == 0)
+		// 	{
+		// 		cast(node->mac);		
+		// 	}	
+		// 	else if (!node->buffer.empty()
+		// 		&& node->mac == node->buffer.front()->path[node->buffer.front()->cursor]
+		// 		&& node->buffer.front()->cursor != 0)  // Checks if
+   	// 		{
+		// 		node->buffer.front()->cursor--;
+		// 		cast(node->mac);
+		// 	}
+		// }
 
 	}
 
@@ -222,29 +271,6 @@ void Simulation::update_packet_position(Packet *packet)
 			packet->mac_next
 			) / packet->content.size();
 	packet->position = std::min(packet->position, 1.0); 
-
-	if (packet->position == 1.0)
-	{
-		if (packet->mac_next == packet->mac_destination)
-		{
-			packet->type = 1; // reply
-			packet->content = "ACK"; // aknowledgement
-			packet->id = std::min(-packet->id, packet->id);
-			packet->hop_count = 0;
-			packet->path.push_back(packet->mac_next);
-			packet->cursor = packet->path.size() - 1;
-
-		}
-
-		// only fill routing table when replying and checks if the packet is repeated
-		if (packet->type == 1 
-		&& nodes[packet->mac_next]->packet_ids.find(packet->id) == nodes[packet->mac_next]->packet_ids.end()) 
-			fill_routing_table(packet);
-
-		nodes[packet->mac_next]->buffer.push(packet);
-		nodes[packet->mac_next]->busy_tone = false;
-		arcs[{packet->mac_prev, packet->mac_next}] = NULL;
-	}
 }
 
 void Simulation::fill_routing_table(Packet *packet)

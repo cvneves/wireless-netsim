@@ -49,6 +49,9 @@ struct Simulation
 
 	void update_packet_position(Packet *packet);
 
+	void has_busy_neighbor(int mac);
+
+	void update_node(Host *node);
 
 	void fill_routing_table(Packet *packet);
 	~Simulation();

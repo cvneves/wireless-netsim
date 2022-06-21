@@ -187,14 +187,20 @@ void Simulation::cast(int mac)
 			flag = true;
 			Packet *packet_copy = new Packet("");
 			*packet_copy = *packet;
-			packet_copy->hop_count = packet_copy->hop_count + 1;
+			// packet_copy->hop_count = packet_copy->hop_count + 1;
 			
-			if(packet_copy->type == 0)
-				packet_copy->path.push_back(host->mac);
+			// if(packet_copy->type == 0)
+			//  	packet_copy->path.push_back(host->mac);
+			packet_copy->encapsulate_network_layer(host->mac);
+
+			// packet_copy->mac_prev = host->mac;
+			// packet_copy->mac_next = node->mac;
 			
-			packet_copy->mac_prev = host->mac;
-			packet_copy->mac_next = node->mac;
-			packet_copy->position = 0;
+			packet_copy->encapsulate_link_layer(host->mac, node->mac);
+			
+			// packet_copy->position = 0;
+			
+			packet_copy->encapsulate_physical_layer();
 
 			node->busy_tone = true;
 

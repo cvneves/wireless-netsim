@@ -19,6 +19,7 @@ struct Packet
 	int mac_destination;
 	int mac_prev = -1;
 	int mac_next = -1;
+	int mac_next_hop = -1;
 
 	// Physical Layer
 	int id;

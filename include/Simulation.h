@@ -43,15 +43,15 @@ struct Simulation
 
 	void send(int mac_source, int mac_destination, std::string content);
 
-	void cast(int mac);
+	void cast(int mac, Packet *packet);
 
 	void wait(int wait_time);
 
 	void update_packet_position(Packet *packet);
 
-	void has_busy_neighbor(int mac);
+	bool has_busy_neighbor(int mac);
 
-	void update_node(Host *node);
+	void update_node(int mac);
 
 	void fill_routing_table(Packet *packet);
 	~Simulation();

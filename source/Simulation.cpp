@@ -14,34 +14,78 @@ Simulation::~Simulation()
 	}
 }
 
+void Simulation::update_node(int mac)
+{
+	Host *host = nodes[mac]; 
 
-// void update_node()
-// {
-// 	if (packet->position == 1.0)
-// 	{
-// 		if (packet->mac_next == packet->mac_destination)
-// 		{
-// 			packet->type = 1; // reply
-// 			packet->content = "ACK"; // aknowledgement
-// 			packet->id = std::min(-packet->id, packet->id);
-// 			packet->hop_count = 0;
-// 			packet->path.push_back(packet->mac_next);
-// 			packet->cursor = packet->path.size() - 1;
-// 
-// 		}
-// 
-// 		// only fill routing table when replying and checks if the packet is repeated
-// 		if (packet->type == 1 
-// 				&& nodes[packet->mac_next]->packet_ids.find(packet->id) == nodes[packet->mac_next]->packet_ids.end()) 
-// 			fill_routing_table(packet);
-// 
-// 		nodes[packet->mac_next]->buffer.push(packet);
-// 		nodes[packet->mac_next]->busy_tone = false;
-// 		arcs[{packet->mac_prev, packet->mac_next}] = NULL;
-// 	}
-// }
+	if (host->buffer.empty())
+		return;
 
-void Simulation::has_busy_neighbor(int mac)
+	Packet *packet = host->buffer.front();
+
+	if (packet->hop_count > MAX_HOPS
+			|| host->packet_ids.find(packet->id) != host->packet_ids.end())
+	{
+		delete packet;
+		host->buffer.pop();
+		return;
+	}
+
+	host->packet_ids.insert(packet->id);
+
+	bool its_casting_time = true;
+
+	if (packet->type == 0)
+	{
+		if (packet->mac_next_hop != -1
+				&& packet->mac_next_hop != packet->mac_next)
+		{
+			its_casting_time = false;
+		}
+
+		if (host->routing_table.find(packet->mac_destination) != 
+				host->routing_table.end())
+		{
+			packet->mac_next_hop = host->routing_table[packet->mac_destination];
+		}
+	}
+
+	if (packet->type == 0
+			&& packet->mac_next == packet->mac_destination)
+	{
+		packet->type = 1; // reply
+		packet->content = "ACK"; // aknowledgement
+		packet->id = std::min(-packet->id, packet->id);
+		packet->hop_count = 0;
+		packet->path.push_back(packet->mac_next);
+	  packet->cursor = packet->path.size() - 1;
+	}
+
+	if (packet->type == 1)
+	{
+		if (host->mac == packet->path[packet->cursor])
+		{
+			fill_routing_table(packet);
+			if (packet->cursor != 0)
+				packet->cursor--;
+		}
+		else {
+			its_casting_time = false;
+		}
+	}
+
+	if (host->mac == packet->mac_source
+			&& packet->type == 1)
+		its_casting_time = false;
+
+	if (its_casting_time)
+		cast(host->mac, packet);
+
+	delete packet;
+	host->buffer.pop();
+}
+
+bool Simulation::has_busy_neighbor(int mac)
 {
 	for (const auto &mac_neighbor : neighbors[mac])
 	{
@@ -56,8 +100,6 @@ void Simulation::has_busy_neighbor(int mac)
 void Simulation::update()
 {
 	log_curr_state();
-
-	std::vector<bool> ready(nodes.size(), false);
 
 	// every packet traveling between two
 	// nodes must have its position after
@@ -76,34 +118,7 @@ void Simulation::update()
 		if (has_busy_neighbor(node->mac))
 			continue;
 
-		update_node(node);
-
-		// bool busy = false;
-		// for (const auto &neighbor : neighbors[node->mac])
-		// {
-		// 	Host *node = nodes[neighbor];
-		// 	if (node->busy_tone)
-		// 	{
-		// 		busy = true;
-		// 		break;
-		// 	}
-		// }
-		// 
-		// if (!busy)
-		// {
-		// 	if (!node->buffer.empty() && node->buffer.front()->type == 0)
-		// 	{
-		// 		cast(node->mac);		
-		// 	}	
-		// 	else if (!node->buffer.empty()
-		// 		&& node->mac == node->buffer.front()->path[node->buffer.front()->cursor]
-		// 		&& node->buffer.front()->cursor != 0)  // Checks if
-   	// 		{
-		// 		node->buffer.front()->cursor--;
-		// 		cast(node->mac);
-		// 	}
-		// }
-
+		update_node(node->mac);
 	}
 
 	curr_time++;
@@ -203,57 +218,29 @@ void Simulation::send(
 	packet->id = packet_id++;
 	nodes[mac_source]->buffer.push(packet);
 
-	cast(mac_source);
+	// cast(mac_source);
 }
 
-void Simulation::cast(int mac)
+void Simulation::cast(int mac, Packet *packet)
 {
 	Host *host = nodes[mac];
-	if (host->buffer.empty())
-		return;
-
-	Packet *packet = host->buffer.front();
-
-	if (host->packet_ids.find(packet->id) != host->packet_ids.end())
-	{
-		delete packet;
-		host->buffer.pop();
-
-		return;
-	}
-	else {
-		host->packet_ids.insert(packet->id);
-	}
-
-	bool flag = false;
 
 	for (const auto &neighbor : neighbors[mac])
 	{
 		Host *node = nodes[neighbor];
-		if (node != host
-				&& packet->hop_count <= MAX_HOPS)
-		{
-			flag = true;
-			Packet *packet_copy = new Packet("");
-			*packet_copy = *packet;
-			
-			packet_copy->encapsulate_network_layer(host->mac);
-			packet_copy->encapsulate_link_layer(host->mac, node->mac);
-			packet_copy->encapsulate_physical_layer();
+		Packet *packet_copy = new Packet("");
+		*packet_copy = *packet;
 
-			node->busy_tone = true;
+		packet_copy->encapsulate_network_layer(host->mac);
+		packet_copy->encapsulate_link_layer(host->mac, node->mac);
+		packet_copy->encapsulate_physical_layer();
 
-			arcs[{host->mac, node->mac}] = packet_copy;
-		}
-		if (flag && node != host)
-		{
-			node->busy_tone = true;
-		}
+		node->busy_tone = true;
+
+		arcs[{host->mac, node->mac}] = packet_copy;
 	}
 
-	std::cout << packet->hop_count << " " << packet << std::endl;
-	delete packet;
-	host->buffer.pop();
+	// std::cout << packet->hop_count << " " << packet << std::endl;
 }
 
 void Simulation::wait(int wait_time)
@@ -271,6 +258,13 @@ void Simulation::update_packet_position(Packet *packet)
 			packet->mac_next
 			) / packet->content.size();
 	packet->position = std::min(packet->position, 1.0); 
+
+	if (packet->position == 1.0)
+	{
+	 	arcs[{packet->mac_prev, packet->mac_next}] = NULL;
+		nodes[packet->mac_next]->buffer.push(packet);
+	 	nodes[packet->mac_next]->busy_tone = false;
+	}
 }
 
 void Simulation::fill_routing_table(Packet *packet)

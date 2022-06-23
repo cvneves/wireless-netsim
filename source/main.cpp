@@ -1,5 +1,4 @@
 #include <iostream>
-#include "../include/Router.h"
 #include "../include/Packet.h"
 #include "../include/Host.h"
 #include "../include/Simulation.h"
@@ -10,6 +9,8 @@ int main(int argc, char **argv)
 {
 	Simulation *sim = new Simulation();
 	sim->read_data(std::string(argv[1]));
+	
+	
 
 	// for (int i = 0; i < sim->nodes.size(); i++)
 	// {

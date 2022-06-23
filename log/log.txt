@@ -1,0 +1,3173 @@
+
+Tempo: 0
+Nó 0 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 1
+
+Tempo: 2
+
+Tempo: 3
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 173.
+
+Tempo: 4
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 145.
+
+Tempo: 5
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 157.
+Nó 157 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 6
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 136.
+
+Tempo: 7
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 101.
+
+Tempo: 8
+
+Tempo: 9
+
+Tempo: 10
+Pacote vindo do nó 157 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 157 com conteúdo "Hello there." chegou no nó 173.
+Nó 78 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 11
+
+Tempo: 12
+Pacote vindo do nó 157 com conteúdo "Hello there." chegou no nó 27.
+Pacote vindo do nó 157 com conteúdo "Hello there." chegou no nó 78.
+
+Tempo: 13
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 173.
+
+Tempo: 14
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 87.
+
+Tempo: 15
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 104.
+
+Tempo: 16
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 145.
+Nó 74 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 17
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 157.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 163.
+Nó 27 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 18
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 101.
+
+Tempo: 19
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 145.
+
+Tempo: 20
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 136.
+
+Tempo: 21
+Pacote vindo do nó 27 com conteúdo "Hello there." chegou no nó 4.
+Pacote vindo do nó 27 com conteúdo "Hello there." chegou no nó 100.
+
+Tempo: 22
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 90.
+Nó 136 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 23
+Pacote vindo do nó 27 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 27 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 169.
+Nó 4 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 24
+Pacote vindo do nó 27 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 27 com conteúdo "Hello there." chegou no nó 157.
+Pacote vindo do nó 74 com conteúdo "Hello there." chegou no nó 173.
+Nó 80 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 25
+Pacote vindo do nó 136 com conteúdo "Hello there." chegou no nó 145.
+
+Tempo: 26
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 136 com conteúdo "Hello there." chegou no nó 74.
+
+Tempo: 27
+Pacote vindo do nó 4 com conteúdo "Hello there." chegou no nó 27.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 82.
+
+Tempo: 28
+Pacote vindo do nó 4 com conteúdo "Hello there." chegou no nó 100.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 136 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 136 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 136 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 136 com conteúdo "Hello there." chegou no nó 134.
+Nó 69 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 29
+Pacote vindo do nó 136 com conteúdo "Hello there." chegou no nó 28.
+
+Tempo: 30
+Pacote vindo do nó 4 com conteúdo "Hello there." chegou no nó 63.
+Pacote vindo do nó 4 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 100.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 131.
+Nó 90 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 31
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 78.
+Nó 39 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 32
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 156.
+
+Tempo: 33
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 169.
+
+Tempo: 34
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 27.
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 34.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 134.
+Nó 34 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 35
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 4.
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 69 com conteúdo "Hello there." chegou no nó 140.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 101.
+
+Tempo: 36
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 163.
+
+Tempo: 37
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 90 com conteúdo "Hello there." chegou no nó 38.
+Nó 9 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 17 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 173 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 38
+Pacote vindo do nó 34 com conteúdo "Hello there." chegou no nó 63.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 119.
+
+Tempo: 39
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 89.
+
+Tempo: 40
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 34 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 34 com conteúdo "Hello there." chegou no nó 100.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 78.
+Nó 63 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 119 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 41
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 90.
+
+Tempo: 42
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 157.
+
+Tempo: 43
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 145.
+
+Tempo: 44
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 9 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 17 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 63 com conteúdo "Hello there." chegou no nó 34.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 104.
+Nó 32 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 82 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 102 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 45
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 173 com conteúdo "Hello there." chegou no nó 82.
+
+Tempo: 46
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 108.
+
+Tempo: 47
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 63 com conteúdo "Hello there." chegou no nó 4.
+Pacote vindo do nó 63 com conteúdo "Hello there." chegou no nó 100.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 144.
+Nó 25 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 100 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 48
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 151.
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 77.
+
+Tempo: 49
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 100 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 115.
+
+Tempo: 50
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 125.
+Nó 111 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 51
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 32 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 100 com conteúdo "Hello there." chegou no nó 27.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 102 com conteúdo "Hello there." chegou no nó 159.
+Nó 89 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 93 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 52
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 82 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 100 com conteúdo "Hello there." chegou no nó 4.
+Pacote vindo do nó 100 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 102.
+
+Tempo: 53
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 100 com conteúdo "Hello there." chegou no nó 34.
+Nó 22 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 54
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 100 com conteúdo "Hello there." chegou no nó 63.
+Pacote vindo do nó 100 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 125.
+Nó 97 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 55
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 160.
+
+Tempo: 56
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 115.
+Nó 159 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 57
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 140.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 95.
+Nó 35 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 153 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 58
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 93 com conteúdo "Hello there." chegou no nó 151.
+Pacote vindo do nó 111 com conteúdo "Hello there." chegou no nó 94.
+Nó 19 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 28 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 59
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 89 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 54.
+
+Tempo: 60
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 160.
+Nó 85 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 61
+Pacote vindo do nó 22 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 100.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 76.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 31.
+
+Tempo: 62
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 145.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 97 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 150.
+
+Tempo: 63
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 125.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 120.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 159 com conteúdo "Hello there." chegou no nó 115.
+Nó 31 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 64
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 112.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 165.
+Nó 41 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 86 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 65
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 136.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 35 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 153 com conteúdo "Hello there." chegou no nó 14.
+Nó 36 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 87 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 66
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 19 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 28 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 75.
+
+Tempo: 67
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 85 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 101.
+Nó 44 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 68
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 53.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 74.
+
+Tempo: 69
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 26.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 145.
+Nó 14 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 70
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 31 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 108.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 125.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 149.
+Pacote com conteúdo "Hello there." chegou a seu destino final, nó 5.
+Caminho percorrido pelo pacote: 0->78->80->39->119->25->5
+Nó 5 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 25
+Nó 42 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 71
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 20.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 37.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 75.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 122.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 142.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 147.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 41 com conteúdo "Hello there." chegou no nó 2.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 86 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 136.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 173.
+Nó 2 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 7 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 145 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 72
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 22.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 25.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 30.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 49.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 61.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 128.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 138.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 161.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 164.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 168.
+Pacote vindo do nó 14 com conteúdo "Hello there." chegou no nó 120.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 82.
+Nó 20 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 59 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 73
+Pacote vindo do nó 2 com conteúdo "Hello there." chegou no nó 26.
+Pacote vindo do nó 14 com conteúdo "Hello there." chegou no nó 76.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 36 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 87 com conteúdo "Hello there." chegou no nó 169.
+Nó 108 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 141 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 74
+Pacote vindo do nó 2 com conteúdo "Hello there." chegou no nó 53.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 44 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 136.
+
+Tempo: 75
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 14 com conteúdo "Hello there." chegou no nó 165.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 101.
+
+Tempo: 76
+Pacote vindo do nó 2 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 2 com conteúdo "Hello there." chegou no nó 152.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 134.
+
+Tempo: 77
+Pacote vindo do nó 14 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 145 com conteúdo "Hello there." chegou no nó 173.
+Nó 29 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 120 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 78
+Pacote vindo do nó 2 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 2 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 2 com conteúdo "Hello there." chegou no nó 113.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 42 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 174.
+Nó 54 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 57 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 73 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 79
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 7 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 151.
+
+Tempo: 80
+Pacote vindo do nó 20 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 59 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 108 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 120 com conteúdo "Hello there." chegou no nó 14.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 141 com conteúdo "Hello there." chegou no nó 169.
+Nó 1 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 11 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 168 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 81
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 120 com conteúdo "Hello there." chegou no nó 76.
+Pacote vindo do nó 120 com conteúdo "Hello there." chegou no nó 165.
+Nó 160 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 82
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 41.
+
+Tempo: 83
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 120 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 138.
+Nó 124 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 84
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 108.
+Pacote vindo do nó 29 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 53.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 123.
+Nó 113 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 165 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 85
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 26.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 25.
+Nó 45 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 47 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 86
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 145.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 54 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 57 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 73 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 142.
+Nó 6 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 87
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 1 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 11 com conteúdo "Hello there." chegou no nó 140.
+Pacote vindo do nó 113 com conteúdo "Hello there." chegou no nó 152.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 168 com conteúdo "Hello there." chegou no nó 147.
+Nó 37 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 101 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 88
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 112.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 71.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 160 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 165 com conteúdo "Hello there." chegou no nó 120.
+
+Tempo: 89
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 108.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 143.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 56.
+
+Tempo: 90
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 66.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 165 com conteúdo "Hello there." chegou no nó 14.
+Pacote vindo do nó 165 com conteúdo "Hello there." chegou no nó 76.
+Nó 33 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 91
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 145.
+Pacote vindo do nó 113 com conteúdo "Hello there." chegou no nó 2.
+Pacote vindo do nó 113 com conteúdo "Hello there." chegou no nó 52.
+Pacote vindo do nó 113 com conteúdo "Hello there." chegou no nó 53.
+Pacote vindo do nó 124 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 165 com conteúdo "Hello there." chegou no nó 151.
+Pacote vindo do nó 165 com conteúdo "Hello there." chegou no nó 153.
+Nó 60 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 152 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 92
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 47 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 165 com conteúdo "Hello there." chegou no nó 174.
+Nó 62 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 68 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 76 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 93
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 6 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 45 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 136.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 169.
+Nó 50 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 107 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 134 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 94
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 37 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 101 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 152 com conteúdo "Hello there." chegou no nó 113.
+Nó 61 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 95
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 108.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 54.
+
+Tempo: 96
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 71.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 76 com conteúdo "Hello there." chegou no nó 14.
+Pacote vindo do nó 76 com conteúdo "Hello there." chegou no nó 120.
+Pacote vindo do nó 76 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 152 com conteúdo "Hello there." chegou no nó 2.
+Pacote vindo do nó 152 com conteúdo "Hello there." chegou no nó 53.
+Nó 66 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 97
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 66.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 33 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 112.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 152 com conteúdo "Hello there." chegou no nó 26.
+Nó 18 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 98
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 66 com conteúdo "Hello there." chegou no nó 71.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 143.
+Pacote vindo do nó 76 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 76 com conteúdo "Hello there." chegou no nó 165.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 145.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 152 com conteúdo "Hello there." chegou no nó 48.
+Nó 26 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 52 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 167 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 170 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 99
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 60 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 137.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 62 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 125.
+Pacote vindo do nó 76 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 136.
+Nó 79 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 83 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 100
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 88.
+Pacote vindo do nó 26 com conteúdo "Hello there." chegou no nó 2.
+Pacote vindo do nó 26 com conteúdo "Hello there." chegou no nó 53.
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 66 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 68 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 107 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 10.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 80.
+Nó 81 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 169 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 101
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 26 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 50 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 66 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 134 com conteúdo "Hello there." chegou no nó 13.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 89.
+Nó 123 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 102
+Pacote vindo do nó 61 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 66 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 143.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 82.
+Nó 51 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 103
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 18 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 26 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 26 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 66 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 66 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 66 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 112.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 104.
+Nó 55 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 88 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 104
+Pacote vindo do nó 26 com conteúdo "Hello there." chegou no nó 152.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 137.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 24.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 163.
+Nó 10 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 105
+Pacote vindo do nó 26 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 52 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 52 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 52 com conteúdo "Hello there." chegou no nó 113.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 59.
+Nó 16 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 46 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 48 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 106
+Pacote vindo do nó 10 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 10 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 79 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 83 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 88 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 167 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 170 com conteúdo "Hello there." chegou no nó 16.
+Nó 56 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 107
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 53.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 15.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 52.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 151.
+Nó 13 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 108
+Pacote vindo do nó 10 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 26.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 66.
+Pacote vindo do nó 81 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 123 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 169 com conteúdo "Hello there." chegou no nó 87.
+Nó 128 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 109
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 112.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 99.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 71.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 88 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 88 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 88 com conteúdo "Hello there." chegou no nó 162.
+Nó 70 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 171 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 110
+Pacote vindo do nó 10 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 10 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 2.
+Pacote vindo do nó 51 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 55 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 88 com conteúdo "Hello there." chegou no nó 166.
+Nó 72 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 111
+Pacote vindo do nó 10 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 10 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 143.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 115.
+Nó 24 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 112
+Pacote vindo do nó 13 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 13 com conteúdo "Hello there." chegou no nó 151.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 27.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 108.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 46 com conteúdo "Hello there." chegou no nó 125.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 152.
+Pacote vindo do nó 48 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 96.
+Nó 3 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 148 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 156 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 113
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 16 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 40.
+
+Tempo: 114
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 143.
+Pacote vindo do nó 56 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 151.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 155.
+Nó 67 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 132 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 115
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 112.
+Pacote vindo do nó 13 com conteúdo "Hello there." chegou no nó 134.
+Pacote vindo do nó 24 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 15.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 99.
+Nó 75 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 116
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 70 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 88.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 128 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 171 com conteúdo "Hello there." chegou no nó 121.
+Nó 15 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 117
+Pacote vindo do nó 24 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 24 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 13.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 100.
+Nó 162 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 118
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 24 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 24 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 72 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 27.
+
+Tempo: 119
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 3 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 15 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 148 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 108.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 140.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 166.
+Nó 53 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 103 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 140 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 151 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 120
+Pacote vindo do nó 15 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 15 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 156 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 84.
+Nó 104 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 121
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 26.
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 67 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 60.
+Nó 137 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 122
+Pacote vindo do nó 15 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 15 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 2.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 112.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 132 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 140 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 47.
+Nó 21 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 123
+Pacote vindo do nó 15 com conteúdo "Hello there." chegou no nó 99.
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 75 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 88.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 158.
+Nó 65 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 124
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 152.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 143.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 13.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 133.
+Nó 58 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 125 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 125
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 125.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 162 com conteúdo "Hello there." chegou no nó 146.
+
+Tempo: 126
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 15.
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 53 com conteúdo "Hello there." chegou no nó 113.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 140 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 140 com conteúdo "Hello there." chegou no nó 69.
+Pacote vindo do nó 140 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 140 com conteúdo "Hello there." chegou no nó 156.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 165.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 174.
+Nó 116 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 122 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 144 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 127
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 103 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 104 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 137 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 151 com conteúdo "Hello there." chegou no nó 116.
+Nó 38 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 128
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 66.
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 71.
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 10.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 111.
+Nó 43 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 129
+Pacote vindo do nó 21 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 11.
+
+Tempo: 130
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 93.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 141.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 50.
+Nó 117 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 131
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 71.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 24.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 58 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 65 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 108.
+Nó 143 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 132
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 66.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 10.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 137.
+Pacote vindo do nó 125 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 44.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 97.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 123.
+Nó 129 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 133
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 143 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 143 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 6.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 140.
+Pacote vindo do nó 144 com conteúdo "Hello there." chegou no nó 156.
+Nó 30 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 110 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 134
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 43 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 116 com conteúdo "Hello there." chegou no nó 151.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 122 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 143 com conteúdo "Hello there." chegou no nó 112.
+Nó 40 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 163 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 135
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 38 com conteúdo "Hello there." chegou no nó 169.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 143 com conteúdo "Hello there." chegou no nó 45.
+
+Tempo: 136
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 143 com conteúdo "Hello there." chegou no nó 103.
+Nó 8 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 137
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 15.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 153.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 143 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 143 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 67.
+Nó 112 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 114 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 138
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 26.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 53.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 174.
+Pacote vindo do nó 117 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 125.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 89.
+
+Tempo: 139
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 76.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 116.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 118.
+Nó 25 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 119
+
+Tempo: 140
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 37.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 123.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 128.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 138.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 142.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 30 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 2.
+Pacote vindo do nó 110 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 3.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 45.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 81.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 103.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 143.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 129 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 170.
+Nó 99 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 174 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 141
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 5.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 20.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 22.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 30.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 75.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 85.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 119.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 144.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 147.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 168.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 99.
+Pacote vindo do nó 40 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 46.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 163 com conteúdo "Hello there." chegou no nó 131.
+Nó 49 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 77 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 142
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 88.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 79.
+
+Tempo: 143
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 8 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 116.
+Nó 12 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 144
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 112 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 32.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 153.
+Nó 71 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 145
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 99 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 114 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 41.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 110.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 141.
+
+Tempo: 146
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 66.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 99 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 99 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 99 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 73.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 93.
+Nó 94 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 118 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 147
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 107.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 77 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 99 com conteúdo "Hello there." chegou no nó 15.
+Pacote vindo do nó 99 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 99 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 48.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 76.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 148.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 151.
+Nó 106 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 148
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 174 com conteúdo "Hello there." chegou no nó 165.
+
+Tempo: 149
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 49 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 124.
+Nó 92 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 150
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 10.
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 137.
+
+Tempo: 151
+Pacote vindo do nó 12 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 71 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 17.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 163.
+
+Tempo: 152
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 90.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 131.
+Nó 130 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 153
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 99.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 35.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 169.
+
+Tempo: 154
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 125.
+Pacote vindo do nó 94 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 118 com conteúdo "Hello there." chegou no nó 36.
+Nó 95 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 155
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 68.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 106 com conteúdo "Hello there." chegou no nó 122.
+Nó 138 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 156
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 52.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 155.
+Nó 23 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 157
+Pacote vindo do nó 92 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 37.
+
+Tempo: 158
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 168.
+Nó 121 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 159
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 130 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 142.
+Nó 91 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 160
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 85.
+
+Tempo: 161
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 95 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 147.
+Nó 115 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 162
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 137.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 128.
+Nó 133 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 163
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 99.
+Pacote vindo do nó 138 com conteúdo "Hello there." chegou no nó 122.
+
+Tempo: 164
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 23 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 164.
+Nó 161 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 165
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 121 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 8.
+
+Tempo: 166
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 160.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 164.
+Nó 119 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 39
+Nó 126 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 167
+Pacote vindo do nó 91 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 111.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 128.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 122.
+
+Tempo: 168
+Pacote vindo do nó 115 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 11.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 25.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 31.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 39.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 50.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 108.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 144.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 24.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 137.
+Nó 39 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 80
+
+Tempo: 169
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 9.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 59.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 91.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 133 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 147.
+Nó 64 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 170
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 62.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 67.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 70.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 77.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 80.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 89.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 95.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 115.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 119.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 131.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 150.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 170.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 127.
+Nó 131 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 142 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 171
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 139.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 161 com conteúdo "Hello there." chegou no nó 142.
+
+Tempo: 172
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 37.
+
+Tempo: 173
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 24.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 71.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 126 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 147.
+Nó 96 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 174
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 58.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 138.
+
+Tempo: 175
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 128.
+
+Tempo: 176
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 10.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 64 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 171.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 38.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 118.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 168.
+Nó 84 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 150 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 177
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 150.
+Pacote vindo do nó 131 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 161.
+
+Tempo: 178
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 142 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 115.
+
+Tempo: 179
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 162.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 99.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 137.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 102.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 160.
+Nó 155 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 180
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 155.
+Pacote vindo do nó 96 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 95.
+Nó 147 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 181
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 111.
+
+Tempo: 182
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 21.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 33.
+
+Tempo: 183
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 36.
+Pacote vindo do nó 150 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 40.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 55.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 130.
+Nó 149 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 184
+Pacote vindo do nó 84 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 43.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 171.
+
+Tempo: 185
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 15.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 71.
+Nó 80 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 78
+
+Tempo: 186
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 67.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 82.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 89.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 104.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 163.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 170.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 66.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 155 com conteúdo "Hello there." chegou no nó 139.
+Nó 164 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 172 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 187
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 1.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 16.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 39.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 59.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 78.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 131.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 147 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 158.
+Nó 78 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 0
+
+Tempo: 188
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 28.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 87.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 173.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 137.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 161.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 126.
+
+Tempo: 189
+Resposta de recebimento do pacote chegou ao nó 0.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 0.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 1.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 16.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 74.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 80.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 82.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 89.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 101.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 104.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 145.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 157.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 163.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 19.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 61.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 91.
+
+Tempo: 190
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 79.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 114.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 139.
+Nó 98 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 191
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 149 com conteúdo "Hello there." chegou no nó 94.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 106.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 127.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 124.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 132.
+
+Tempo: 192
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 42.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 43.
+
+Tempo: 193
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 164 com conteúdo "Hello there." chegou no nó 147.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 172 com conteúdo "Hello there." chegou no nó 130.
+Nó 105 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 194
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 158.
+
+Tempo: 195
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 83.
+
+Tempo: 196
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 58.
+
+Tempo: 197
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 139.
+
+Tempo: 198
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 98 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 54.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 107.
+Nó 109 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 199
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 20.
+
+Tempo: 200
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 159.
+Pacote vindo do nó 105 com conteúdo "Hello there." chegou no nó 172.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 146.
+Nó 0 realizando transmissão do pacote com conteúdo "Hello there.".
+Nó 127 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 201
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 158.
+
+Tempo: 202
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 92.
+
+Tempo: 203
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 96.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 106.
+
+Tempo: 204
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 145.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 154.
+
+Tempo: 205
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 157.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 109 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 130.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 137.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 164.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 171.
+Nó 135 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 206
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 136.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 51.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 121.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 122.
+Pacote vindo do nó 127 com conteúdo "Hello there." chegou no nó 161.
+Nó 139 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 207
+Pacote vindo do nó 0 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 154.
+Nó 78 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 208
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 58.
+
+Tempo: 209
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 64.
+
+Tempo: 210
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 28.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 173.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 167.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 105.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 172.
+
+Tempo: 211
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 87.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 10.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 56.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 83.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 126.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 130.
+
+Tempo: 212
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 0.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 101.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 24.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 146.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 135 com conteúdo "Hello there." chegou no nó 166.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 33.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 91.
+Nó 146 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 213
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 74.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 145.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 29.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 49.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 132.
+Pacote vindo do nó 139 com conteúdo "Hello there." chegou no nó 155.
+
+Tempo: 214
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 157.
+Pacote vindo do nó 78 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 158.
+Nó 80 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 215
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 98.
+
+Tempo: 216
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 149.
+
+Tempo: 217
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 82.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 92.
+
+Tempo: 218
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 104.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 163.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 154.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 166.
+
+Tempo: 219
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 135.
+Nó 154 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 220
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 1.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 146 com conteúdo "Hello there." chegou no nó 162.
+
+Tempo: 221
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 16.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 80 com conteúdo "Hello there." chegou no nó 78.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 135.
+Nó 39 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 222
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 58.
+
+Tempo: 223
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 98.
+
+Tempo: 224
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 9.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 64.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 117.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 167.
+
+Tempo: 225
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 59.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 10.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 146.
+
+Tempo: 226
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 70.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 95.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 115.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 131.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 170.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 158.
+Pacote vindo do nó 154 com conteúdo "Hello there." chegou no nó 166.
+Nó 158 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 227
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 62.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 77.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 150.
+
+Tempo: 228
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 67.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 80.
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 119.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 146.
+Nó 119 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 229
+Pacote vindo do nó 39 com conteúdo "Hello there." chegou no nó 89.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 109.
+
+Tempo: 230
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 84.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 149.
+
+Tempo: 231
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 166.
+
+Tempo: 232
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 72.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 92.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 162.
+
+Tempo: 233
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 7.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 86.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 129.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 158 com conteúdo "Hello there." chegou no nó 154.
+Nó 166 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 234
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 25.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 50.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 108.
+
+Tempo: 235
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 11.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 31.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 39.
+Pacote vindo do nó 119 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 162.
+Nó 25 realizando transmissão do pacote com conteúdo "Hello there.".
+
+Tempo: 236
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 84.
+
+Tempo: 237
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 23.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 47.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 60.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 72.
+
+Tempo: 238
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 37.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 138.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 8.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 158.
+
+Tempo: 239
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 123.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 128.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 142.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 12.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 18.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 57.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 133.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 146.
+
+Tempo: 240
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 168.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 65.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 88.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 98.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 109.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 135.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 149.
+Pacote vindo do nó 166 com conteúdo "Hello there." chegou no nó 154.
+
+Tempo: 241
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 5.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 22.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 75.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 85.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 119.
+
+Tempo: 242
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 20.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 30.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 144.
+Pacote vindo do nó 25 com conteúdo "Hello there." chegou no nó 147.
+Pacote com conteúdo "Hello there." chegou a seu destino final, nó 5.
+Caminho percorrido pelo pacote: 0->78->80->39->119->25->5
+Nó 5 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 25
+
+Tempo: 243
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 20.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 37.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 75.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 122.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 142.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 147.
+
+Tempo: 244
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 22.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 25.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 30.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 49.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 61.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 128.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 138.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 161.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 164.
+Pacote vindo do nó 5 com conteúdo "ACK" chegou no nó 168.
+Nó 25 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 119
+
+Tempo: 245
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 37.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 123.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 128.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 138.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 142.
+
+Tempo: 246
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 5.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 20.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 22.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 30.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 75.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 85.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 119.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 144.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 147.
+Pacote vindo do nó 25 com conteúdo "ACK" chegou no nó 168.
+
+Tempo: 247
+Nó 119 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 39
+
+Tempo: 248
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 128.
+
+Tempo: 249
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 11.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 25.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 31.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 39.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 50.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 108.
+Pacote vindo do nó 119 com conteúdo "ACK" chegou no nó 144.
+Nó 39 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 80
+
+Tempo: 250
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 9.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 59.
+
+Tempo: 251
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 62.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 67.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 70.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 77.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 80.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 89.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 95.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 115.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 119.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 131.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 150.
+Pacote vindo do nó 39 com conteúdo "ACK" chegou no nó 170.
+Nó 80 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 78
+
+Tempo: 252
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 67.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 82.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 89.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 104.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 163.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 170.
+
+Tempo: 253
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 1.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 16.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 39.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 59.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 78.
+Pacote vindo do nó 80 com conteúdo "ACK" chegou no nó 131.
+Nó 78 realizando transmissão da resposta de recebimento do pacote. Próximo nó do caminho: 0
+
+Tempo: 254
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 28.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 87.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 173.
+
+Tempo: 255
+Resposta de recebimento do pacote chegou ao nó 0.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 0.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 1.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 16.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 74.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 80.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 82.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 89.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 101.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 104.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 145.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 157.
+Pacote vindo do nó 78 com conteúdo "ACK" chegou no nó 163.
+
+Tempo: 256
+
+Tempo: 257
+
+Tempo: 258
+
+Tempo: 259
+
+Tempo: 260
+
+Tempo: 261
+
+Tempo: 262
+
+Tempo: 263
+
+Tempo: 264
+
+Tempo: 265
+
+Tempo: 266
+
+Tempo: 267
+
+Tempo: 268
+
+Tempo: 269
+
+Tempo: 270
+
+Tempo: 271
+
+Tempo: 272
+
+Tempo: 273
+
+Tempo: 274
+
+Tempo: 275
+
+Tempo: 276
+
+Tempo: 277
+
+Tempo: 278
+
+Tempo: 279
+
+Tempo: 280
+
+Tempo: 281
+
+Tempo: 282
+
+Tempo: 283
+
+Tempo: 284
+
+Tempo: 285
+
+Tempo: 286
+
+Tempo: 287
+
+Tempo: 288
+
+Tempo: 289
+
+Tempo: 290
+
+Tempo: 291
+
+Tempo: 292
+
+Tempo: 293
+
+Tempo: 294
+
+Tempo: 295
+
+Tempo: 296
+
+Tempo: 297
+
+Tempo: 298
+
+Tempo: 299
+
+Tempo: 300
+
+Tempo: 301
+
+Tempo: 302
+
+Tempo: 303
+
+Tempo: 304
+
+Tempo: 305
+
+Tempo: 306
+
+Tempo: 307
+
+Tempo: 308
+
+Tempo: 309
+
+Tempo: 310
+
+Tempo: 311
+
+Tempo: 312
+
+Tempo: 313
+
+Tempo: 314
+
+Tempo: 315
+
+Tempo: 316
+
+Tempo: 317
+
+Tempo: 318
+
+Tempo: 319
+
+Tempo: 320
+
+Tempo: 321
+
+Tempo: 322
+
+Tempo: 323
+
+Tempo: 324
+
+Tempo: 325
+
+Tempo: 326
+
+Tempo: 327
+
+Tempo: 328
+
+Tempo: 329
+
+Tempo: 330
+
+Tempo: 331
+
+Tempo: 332
+
+Tempo: 333
+
+Tempo: 334
+
+Tempo: 335
+
+Tempo: 336
+
+Tempo: 337
+
+Tempo: 338
+
+Tempo: 339
+
+Tempo: 340
+
+Tempo: 341
+
+Tempo: 342
+
+Tempo: 343
+
+Tempo: 344
+
+Tempo: 345
+
+Tempo: 346
+
+Tempo: 347
+
+Tempo: 348
+
+Tempo: 349
+
+Tempo: 350
+
+Tempo: 351
+
+Tempo: 352
+
+Tempo: 353
+
+Tempo: 354
+
+Tempo: 355
+
+Tempo: 356
+
+Tempo: 357
+
+Tempo: 358
+
+Tempo: 359
+
+Tempo: 360
+
+Tempo: 361
+
+Tempo: 362
+
+Tempo: 363
+
+Tempo: 364
+
+Tempo: 365
+
+Tempo: 366
+
+Tempo: 367
+
+Tempo: 368
+
+Tempo: 369
+
+Tempo: 370
+
+Tempo: 371
+
+Tempo: 372
+
+Tempo: 373
+
+Tempo: 374
+
+Tempo: 375
+
+Tempo: 376
+
+Tempo: 377
+
+Tempo: 378
+
+Tempo: 379
+
+Tempo: 380
+
+Tempo: 381
+
+Tempo: 382
+
+Tempo: 383
+
+Tempo: 384
+
+Tempo: 385
+
+Tempo: 386
+
+Tempo: 387
+
+Tempo: 388
+
+Tempo: 389
+
+Tempo: 390
+
+Tempo: 391
+
+Tempo: 392
+
+Tempo: 393
+
+Tempo: 394
+
+Tempo: 395
+
+Tempo: 396
+
+Tempo: 397
+
+Tempo: 398
+
+Tempo: 399

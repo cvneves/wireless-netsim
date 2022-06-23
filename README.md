@@ -1,4 +1,5 @@
 A wireless network system simulator.
+You will need CMake 3.14+, Python 3.5+, [matplotlib](https://pypi.org/project/matplotlib/) and [Numpy](https://pypi.org/project/numpy/).
 
 To compile/run:
 ```bash
@@ -12,7 +13,6 @@ make
 ```
 
 To generate the output pdf:
-First you will need Python 3.5+, [matplotlib](https://pypi.org/project/matplotlib/) and [Numpy](https://pypi.org/project/numpy/).
 
 ```bash
 bash generate_graphs.sh $instance_name

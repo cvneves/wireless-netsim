@@ -2,8 +2,6 @@
 #define SIMULATION_H
 
 #include "Host.h"
-#include "Router.h"
-#include "Packet.h"
 #include <queue>
 #include <map>
 #include <iostream>
@@ -27,6 +25,7 @@ struct Simulation
 	std::string instance_file_name;
 	std::set<std::pair<int, int>> edge_list;
 	std::map<std::pair<int, int>, Packet*> arcs;
+	std::ofstream log_geral;
 
 	std::vector<std::vector<int>> neighbors;
 	void read_data(std::string file_name);
@@ -54,6 +53,10 @@ struct Simulation
 	void update_node(int mac);
 
 	void fill_routing_table(Packet *packet);
+
+	void logar_estado();
+
+	Simulation();
 	~Simulation();
 };
 

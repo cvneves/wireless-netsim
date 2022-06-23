@@ -6,7 +6,7 @@ mkdir build
 cd build
 cmake ..
 make
-./netsim.out
+./netsim.out $instance_name
 ```
 
 To generate the output pdf:

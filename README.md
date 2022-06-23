@@ -2,6 +2,8 @@ A wireless network system simulator.
 
 To compile/run:
 ```bash
+mkdir output
+mkdir graph
 mkdir build
 cd build
 cmake ..
